@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(16, 147, 159, 0.432);
+}
+
+h1 {
+    margin: 5px 0;
+    color: #3746cf
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+/* Styles for list items */
+li {
+    margin: 5px 0;
+    font-size: 16px;
+    color: #7437cf
+}
